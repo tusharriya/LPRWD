@@ -3,6 +3,7 @@ html{
 }
 body{
     color: #24292e;
+    
 
 }
 a{
@@ -14,9 +15,7 @@ p{
 img{
     max-width: 100%;
 }
-li{
 
-}
 li{
     list-style: none;
     font-size: 1.2rem;
@@ -183,12 +182,12 @@ contact dd{
     width: 20px;
     margin-top: 15px;
 }
-#works ul{
+/* #works ul{
     flex-direction: colum;
-}
-#works ul li{
+} */
+/* #works ul li{
     width: 100%;
-}
+} */
 #news dl{
     flex-direction: column;
 }
